@@ -1,0 +1,11 @@
+name: ActionbarCoords
+version: 0.1.0
+author: Dinesh Umasankar
+main: me.dineshu.actionbarcoords.Main
+api-version: 1.15
+prefix: ActionbarCoords
+commands:
+  coords:
+    description: Prints your coordinates in chat for your eyes only.
+    colors:
+      description: Changes the color of your coords in the ActionBar
