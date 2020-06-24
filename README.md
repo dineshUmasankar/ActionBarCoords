@@ -14,7 +14,7 @@ A Minecraft Spigot plugin that shows a player's coordinates above their hotbar w
 ## Requirements
 
 ## Contact
-|![TwitterIconContact](https://github.com/dineshUmasankar/ActionBarCoords/blob/master/images/twt-pad.png?raw=true)|:@DineshUmasankar:|
+|![TwitterIconContact](https://github.com/dineshUmasankar/ActionBarCoords/blob/master/images/twt-pad.png?raw=true)|@DineshUmasankar|
 |-----------------------------------------------------------------------------------------------------------------|------------------|
 ## Credits
 
