@@ -9,7 +9,14 @@ A Minecraft Spigot plugin that shows a player's coordinates above their hotbar w
 *image insert here*
 
 #### Features:
->- Test
+>- Saves the player's color in yml inside the plugin's save directory
+>- Actively shows player's coordinates in a highly personalizable way
+
+#### Commands:
+>|Command Usage|Description|
+>|-------------|-----------|
+>|/coords      |Displays coordinates in chat|
+>|/coords colors|Brings up the color GUI|
 
 ## Requirements
 
@@ -17,7 +24,6 @@ A Minecraft Spigot plugin that shows a player's coordinates above their hotbar w
 
 |![TwitterIconContact](https://github.com/dineshUmasankar/ActionBarCoords/blob/master/images/twitter-icon.png?raw=true)|[@DineshUmasankar](https://twitter.com/DineshUmasankar)|
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-
 
 |![GithubIconContact](https://github.com/dineshUmasankar/ActionBarCoords/blob/master/images/github-icon.png?raw=true)|[@dineshUmasankar](https://github.com/dineshUmasankar)|
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
