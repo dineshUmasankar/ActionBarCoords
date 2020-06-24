@@ -13,10 +13,10 @@ A Minecraft Spigot plugin that shows a player's coordinates above their hotbar w
 >- Actively shows player's coordinates in a highly personalizable way
 
 #### Commands:
->|Command Usage|Description|
->|-------------|-----------|
->|/coords      |Displays coordinates in chat|
->|/coords colors|Brings up the color GUI|
+|Command Usage|Description|
+|-------------|-----------|
+|/coords      |Displays coordinates in chat|
+|/coords colors|Brings up the color GUI|
 
 ## Requirements
 
