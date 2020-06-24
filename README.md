@@ -9,8 +9,8 @@ A Minecraft __1.15.2__ Spigot plugin that shows a player's coordinates above the
 *image insert here*
 
 #### Features:
->- Saves the player's color in yml inside the plugin's save directory
->- Actively shows player's coordinates in a highly personalizable way
+>- Saves player's color data into a file stored within the plugin directory
+>- Actively shows the player's coordinates in their personalized fashion
 
 #### Commands:
 |Command Usage|Description|
