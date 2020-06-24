@@ -4,7 +4,7 @@ __A Coordinates HUD Plugin for Spigot servers and comes with *changing colors!!!
 ![ActionBarCoords Logo](https://github.com/dineshUmasankar/ActionBarCoords/blob/master/images/ActionBarCoords_Logo_Icon.png?raw=true)
 
 ## Description
-A Minecraft Spigot plugin that shows a player's coordinates above their hotbar with color customization.
+A Minecraft __1.15.2__ Spigot plugin that shows a player's coordinates above their hotbar with color customization.
 
 *image insert here*
 
